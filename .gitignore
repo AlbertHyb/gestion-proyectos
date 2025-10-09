@@ -1,0 +1,26 @@
+#Entornos virtuales
+ven
+v/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+#Archivos de seguridad
+*.pem
+*.key
+*.crt   
+*.p12
+*.jks
+*.pfx
+*.der
+*.p7b
+*.p7c
+*.asc
+*.gpg
+*.sig
+*.csr
+.env
+.env.*.local
+.local.env
